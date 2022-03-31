@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Github Repo App</string>
+    <string name="title">Github Repos App</string>
+    <string name="name">name :</string>
+    <string name="user_name">User Name</string>
+    <string name="organization_name">Organization Name</string>
+    <string name="get_repo">get Repo</string>
+    <string name="public_title">Public</string>
+    <string name="credits">Resources -Credits Github API</string>
+</resources>
