@@ -25,13 +25,13 @@ Student ID: 25308
 To carry out this assignment it was necessary to try to understand the requirements. I started by seeing the Main Activity (layout and functionalities).
 Then the second activity layout was done, trying to make it similar to the one that was given to us.
 
-To make the second activity layout, I tried to use a similar aesthetic. I was able to make the circles change color according to the language (similar to the last activity). I had difficulties this time making the image round (previously it was not a problem). I tried different ways, but I opted to change the ImageView to a Shapeable Image View.
+To make the second activity layout, I tried to use a similar aesthetic. I was able to make the circles change color according to the language (similar to the last activity). I had difficulties this time making the image round (previously it was not a problem). I tried different ways, but I opted to change the ImageView to a Shapeable Image View (experiment a new possibility to make a circle) .
 
 To be able to parse the given information from the API I used OkHTTP3 and gson. In order to import the image, Picasso was used.
 
 Among the flaws of my code, I think it could be more orderly and create more classes and methods. Because the code can be repetitive.
 
-To finish this assessment took me a lot of time, and I needed to use a lot of external resources.
+To finish this assessment took me a lot of time, and I needed some external resources. But in the end it was worth it and I think it helped me apply the concepts learned in class. 
 
 
 
