@@ -12,6 +12,7 @@ Student ID: 25308
 
 
     2. Extend the same functionality for organizations:
+    
      - [x] Add a radio button to select username or orgname(done)
      - [x] Show information about the organization and repositories
      - [x] Test and record screencast for orgnames microsoft, facebook, uber, and ultrabot.
